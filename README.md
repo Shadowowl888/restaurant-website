@@ -1,70 +1,55 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Restaurant Landing Page
 
-## Available Scripts
+A fully functional restaurant landing page website I made using a modern UI/UX design on Figma.
+This design can be used for any high-end restaurant client to serve their needs.
 
-In the project directory, you can run:
 
-### `npm start`
+## Deployment
+Visit the fully deployed website [here](https://shadowowl888.github.io/restaurant-website).
+<img src='restaurant-landing.png' alt='restaurant-landing'>
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Modern UI/UX design
+- Descriptive about us section
+- High-quality media images
+- Photo gallery carousel
+- Newsletter signup
+- Cross platform
+- Mobile device optimization
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Client:** HTML, CSS, Javascript, React
 
-### `npm run build`
+**Server:** Node, Express
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install restaurant-website with npm
 
-### `npm run eject`
+```bash
+  npm install restaurant-website
+  cd my-project
+```
+    
+## Roadmap
+### Front-End
+- Link buttons to more pages
+- Improve customer user support
+- Expand to more pages
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Internal
+- Add more integrations
+- Possible API backend
+## Lessons Learned
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The hardest part and most complex part of the project was working with the React components of the restaurant website. Difficult to understand the depth of React and adapting from the Figma UI/UX design to code. Managed the website through making smaller components and a time, making the project more modular and have cleaner code. While I spent some time thinking about the design, majority of the components in this project became obvious after working and testing with them.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I now understand that it is best to keep larger projects more modular so that parts of your code is readable and easy to underrstand. In this way, it was easy to find the problem and fix what was needed to correlate with the design. Likewise trial, error, and testing were crucial parts of this project to be able to make changes to align with the design.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In all things considered, this was a great project and included a lot of lessons that was learned.
+## Contact
+Feel free to contact me at Shadowowl ☆#3300 on Discord
