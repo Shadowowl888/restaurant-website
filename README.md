@@ -6,7 +6,7 @@ This design can be used for any high-end restaurant client to serve their needs.
 
 
 ## Deployment
-Visit the fully deployed website [here](https://shadowowl888.github.io/restaurant-website).
+Visit the fully deployed website [here](https://shadowowl888.github.io/restaurant-website/).
 <img src='restaurant-landing.png' alt='restaurant-landing'>
 ## Features
 
